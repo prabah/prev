@@ -1,0 +1,30 @@
+﻿using System.Collections.Generic;
+using System.Linq;
+using System.Runtime.InteropServices;
+using SqlInjection.Prevention.DataManager.DataOperations;
+
+namespace SqlInjection.Prevention.DataManager
+{
+    public class EmployeeManager:IEmployeeManager
+    {
+        private readonly ISqlReader _sqlDataReader;
+        private readonly ISqlWriter _sqlWriter;
+        public EmployeeManager(ISqlReader sqlDataReader, ISqlWriter sqlWriter)
+        {
+            _sqlDataReader = sqlDataReader;
+            _sqlWriter = sqlWriter;
+        }
+
+        public List<Employee> Employees()
+        {
+            return _sqlDataReader.Employees(); 
+        }
+
+        public void WriteEmployees(List<Employee> employees)
+        {
+            _sqlWriter.InsertDataUsingSqlBulkCopy(employees.ToList());
+        }
+
+
+    }
+}

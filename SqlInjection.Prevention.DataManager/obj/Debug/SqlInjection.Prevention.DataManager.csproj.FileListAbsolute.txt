@@ -1,0 +1,10 @@
+C:\Users\Nitheish\Documents\Visual Studio 2015\Projects\K7_Project\SqlInjection.Prevention\SqlInjection.Prevention.DataManager\bin\Debug\SqlInjection.Prevention.DataManager.dll
+C:\Users\Nitheish\Documents\Visual Studio 2015\Projects\K7_Project\SqlInjection.Prevention\SqlInjection.Prevention.DataManager\bin\Debug\SqlInjection.Prevention.DataManager.pdb
+C:\Users\Nitheish\Documents\Visual Studio 2015\Projects\K7_Project\SqlInjection.Prevention\SqlInjection.Prevention.DataManager\obj\Debug\SqlInjection.Prevention.DataManager.csprojResolveAssemblyReference.cache
+C:\Users\Nitheish\Documents\Visual Studio 2015\Projects\K7_Project\SqlInjection.Prevention\SqlInjection.Prevention.DataManager\obj\Debug\SqlInjection.Prevention.DataManager.dll
+C:\Users\Nitheish\Documents\Visual Studio 2015\Projects\K7_Project\SqlInjection.Prevention\SqlInjection.Prevention.DataManager\obj\Debug\SqlInjection.Prevention.DataManager.pdb
+C:\inetpub\wwwroot\SqlInjection.Prevention\SqlInjection.Prevention.DataManager\bin\Debug\SqlInjection.Prevention.DataManager.dll
+C:\inetpub\wwwroot\SqlInjection.Prevention\SqlInjection.Prevention.DataManager\bin\Debug\SqlInjection.Prevention.DataManager.pdb
+C:\inetpub\wwwroot\SqlInjection.Prevention\SqlInjection.Prevention.DataManager\obj\Debug\SqlInjection.Prevention.DataManager.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\SqlInjection.Prevention\SqlInjection.Prevention.DataManager\obj\Debug\SqlInjection.Prevention.DataManager.dll
+C:\inetpub\wwwroot\SqlInjection.Prevention\SqlInjection.Prevention.DataManager\obj\Debug\SqlInjection.Prevention.DataManager.pdb

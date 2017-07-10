@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h4>Please enter the amount and submit to retrieve the records of employees whose salary is lower than the amount entered:</h4>
+
+<input type="text" name="maxSalary" id="maxSalary"/>
+<input id="get-results" type="submit" />
+
+<div id="header">
+    <ul></ul>
+</div>
+
+
+<div class="table-wrapper">
+    <table id="inbuilt-query-table">
+
+    </table>
+</div>
+
+<div id='loadingmessage' style='display: none'>
+    <img src='~/Content/images/ajax-loader.gif'/>
+</div>
+
+<script src="~/js/employee.js"></script>

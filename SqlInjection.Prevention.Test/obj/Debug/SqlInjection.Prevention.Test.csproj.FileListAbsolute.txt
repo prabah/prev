@@ -1,0 +1,21 @@
+C:\Users\Nitheish\Documents\Visual Studio 2015\Projects\K7_Project\SqlInjection.Prevention\SqlInjection.Prevention.Test\bin\Debug\SqlInjection.Prevention.Test.dll
+C:\Users\Nitheish\Documents\Visual Studio 2015\Projects\K7_Project\SqlInjection.Prevention\SqlInjection.Prevention.Test\bin\Debug\SqlInjection.Prevention.Test.pdb
+C:\Users\Nitheish\Documents\Visual Studio 2015\Projects\K7_Project\SqlInjection.Prevention\SqlInjection.Prevention.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Nitheish\Documents\Visual Studio 2015\Projects\K7_Project\SqlInjection.Prevention\SqlInjection.Prevention.Test\bin\Debug\SqlInjection.Prevention.IO.Borker.dll
+C:\Users\Nitheish\Documents\Visual Studio 2015\Projects\K7_Project\SqlInjection.Prevention\SqlInjection.Prevention.Test\bin\Debug\SqlInjection.Prevention.IO.Borker.pdb
+C:\Users\Nitheish\Documents\Visual Studio 2015\Projects\K7_Project\SqlInjection.Prevention\SqlInjection.Prevention.Test\obj\Debug\SqlInjection.Prevention.Test.csprojResolveAssemblyReference.cache
+C:\Users\Nitheish\Documents\Visual Studio 2015\Projects\K7_Project\SqlInjection.Prevention\SqlInjection.Prevention.Test\obj\Debug\SqlInjection.Prevention.Test.dll
+C:\Users\Nitheish\Documents\Visual Studio 2015\Projects\K7_Project\SqlInjection.Prevention\SqlInjection.Prevention.Test\obj\Debug\SqlInjection.Prevention.Test.pdb
+C:\Users\Nitheish\Documents\Visual Studio 2015\Projects\K7_Project\SqlInjection.Prevention\SqlInjection.Prevention.Test\bin\Debug\SqlInjection.Prevention.DataManager.dll
+C:\Users\Nitheish\Documents\Visual Studio 2015\Projects\K7_Project\SqlInjection.Prevention\SqlInjection.Prevention.Test\bin\Debug\SqlInjection.Prevention.DataManager.pdb
+C:\Thesis\SqlInjection.Prevention\SqlInjection.Prevention.Test\bin\Debug\SqlInjection.Prevention.Test.dll
+C:\Thesis\SqlInjection.Prevention\SqlInjection.Prevention.Test\bin\Debug\SqlInjection.Prevention.Test.pdb
+C:\Thesis\SqlInjection.Prevention\SqlInjection.Prevention.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Thesis\SqlInjection.Prevention\SqlInjection.Prevention.Test\bin\Debug\SqlInjection.Prevention.IO.Borker.dll
+C:\Thesis\SqlInjection.Prevention\SqlInjection.Prevention.Test\bin\Debug\SqlInjection.Prevention.DataManager.dll
+C:\Thesis\SqlInjection.Prevention\SqlInjection.Prevention.Test\bin\Debug\SqlInjection.Prevention.IO.Borker.pdb
+C:\Thesis\SqlInjection.Prevention\SqlInjection.Prevention.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Thesis\SqlInjection.Prevention\SqlInjection.Prevention.Test\bin\Debug\SqlInjection.Prevention.DataManager.pdb
+C:\Thesis\SqlInjection.Prevention\SqlInjection.Prevention.Test\obj\Debug\SqlInjection.Prevention.Test.csprojResolveAssemblyReference.cache
+C:\Thesis\SqlInjection.Prevention\SqlInjection.Prevention.Test\obj\Debug\SqlInjection.Prevention.Test.dll
+C:\Thesis\SqlInjection.Prevention\SqlInjection.Prevention.Test\obj\Debug\SqlInjection.Prevention.Test.pdb

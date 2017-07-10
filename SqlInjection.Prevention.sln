@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlInjection.Prevention.UI", "SqlInjection.Prevention.UI\SqlInjection.Prevention.UI.csproj", "{1F85CD69-2668-4B0F-A1F8-974039A6004B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlInjection.Prevention.IO.Borker", "SqlInjection.Prevention.IO.Borker\SqlInjection.Prevention.IO.Borker.csproj", "{9F9CAF69-D83A-48EC-9C4C-A2E65BA2A913}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlInjection.Prevention.API", "SqlInjection.Prevention.API\SqlInjection.Prevention.API.csproj", "{62D3E3C8-8835-4B7B-93DE-5555B1BBB0FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlInjection.Prevention.Test", "SqlInjection.Prevention.Test\SqlInjection.Prevention.Test.csproj", "{4D62AE7D-7F98-4184-A448-DB56DFA47F7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlInjection.Prevention.DataManager", "SqlInjection.Prevention.DataManager\SqlInjection.Prevention.DataManager.csproj", "{A9C06F17-0F9A-4D4C-8692-38F4DDF69446}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F85CD69-2668-4B0F-A1F8-974039A6004B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F85CD69-2668-4B0F-A1F8-974039A6004B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F85CD69-2668-4B0F-A1F8-974039A6004B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F85CD69-2668-4B0F-A1F8-974039A6004B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F9CAF69-D83A-48EC-9C4C-A2E65BA2A913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9CAF69-D83A-48EC-9C4C-A2E65BA2A913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9CAF69-D83A-48EC-9C4C-A2E65BA2A913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9CAF69-D83A-48EC-9C4C-A2E65BA2A913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62D3E3C8-8835-4B7B-93DE-5555B1BBB0FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D3E3C8-8835-4B7B-93DE-5555B1BBB0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D3E3C8-8835-4B7B-93DE-5555B1BBB0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D3E3C8-8835-4B7B-93DE-5555B1BBB0FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D62AE7D-7F98-4184-A448-DB56DFA47F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D62AE7D-7F98-4184-A448-DB56DFA47F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D62AE7D-7F98-4184-A448-DB56DFA47F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D62AE7D-7F98-4184-A448-DB56DFA47F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9C06F17-0F9A-4D4C-8692-38F4DDF69446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C06F17-0F9A-4D4C-8692-38F4DDF69446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9C06F17-0F9A-4D4C-8692-38F4DDF69446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9C06F17-0F9A-4D4C-8692-38F4DDF69446}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

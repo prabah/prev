@@ -1,0 +1,31 @@
+c:\users\nitheish\documents\visual studio 2015\Projects\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\bin\Debug\SqlInjection.Prevention.IO.Borker.dll
+c:\users\nitheish\documents\visual studio 2015\Projects\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\bin\Debug\SqlInjection.Prevention.IO.Borker.pdb
+c:\users\nitheish\documents\visual studio 2015\Projects\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\obj\Debug\SqlInjection.Prevention.IO.Borker.csprojResolveAssemblyReference.cache
+c:\users\nitheish\documents\visual studio 2015\Projects\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\obj\Debug\SqlInjection.Prevention.IO.Borker.dll
+c:\users\nitheish\documents\visual studio 2015\Projects\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\obj\Debug\SqlInjection.Prevention.IO.Borker.pdb
+C:\Users\selliahp\Downloads\SqlInjection.Prevention-20170607T134125Z-001\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\bin\Debug\SqlInjection.Prevention.IO.Borker.dll
+C:\Users\selliahp\Downloads\SqlInjection.Prevention-20170607T134125Z-001\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\bin\Debug\SqlInjection.Prevention.IO.Borker.pdb
+C:\Users\selliahp\Downloads\SqlInjection.Prevention-20170607T134125Z-001\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\obj\Debug\SqlInjection.Prevention.IO.Borker.csprojResolveAssemblyReference.cache
+C:\Users\selliahp\Downloads\SqlInjection.Prevention-20170607T134125Z-001\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\obj\Debug\SqlInjection.Prevention.IO.Borker.dll
+C:\Users\selliahp\Downloads\SqlInjection.Prevention-20170607T134125Z-001\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\obj\Debug\SqlInjection.Prevention.IO.Borker.pdb
+C:\Users\Nitheish\Documents\Visual Studio 2015\Projects\K7_Project\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\bin\Debug\SqlInjection.Prevention.IO.Borker.dll
+C:\Users\Nitheish\Documents\Visual Studio 2015\Projects\K7_Project\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\bin\Debug\SqlInjection.Prevention.IO.Borker.pdb
+C:\Users\Nitheish\Documents\Visual Studio 2015\Projects\K7_Project\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\obj\Debug\SqlInjection.Prevention.IO.Borker.csprojResolveAssemblyReference.cache
+C:\Users\Nitheish\Documents\Visual Studio 2015\Projects\K7_Project\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\obj\Debug\SqlInjection.Prevention.IO.Borker.dll
+C:\Users\Nitheish\Documents\Visual Studio 2015\Projects\K7_Project\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\obj\Debug\SqlInjection.Prevention.IO.Borker.pdb
+C:\Users\Nitheish\Documents\Visual Studio 2015\Projects\K7_Project\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\bin\Debug\SqlInjection.Prevention.DataManager.dll
+C:\Users\Nitheish\Documents\Visual Studio 2015\Projects\K7_Project\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\bin\Debug\SqlInjection.Prevention.DataManager.pdb
+C:\inetpub\wwwroot\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\bin\Debug\SqlInjection.Prevention.IO.Borker.dll
+C:\inetpub\wwwroot\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\bin\Debug\SqlInjection.Prevention.IO.Borker.pdb
+C:\inetpub\wwwroot\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\bin\Debug\SqlInjection.Prevention.DataManager.dll
+C:\inetpub\wwwroot\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\bin\Debug\SqlInjection.Prevention.DataManager.pdb
+C:\inetpub\wwwroot\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\obj\Debug\SqlInjection.Prevention.IO.Borker.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\obj\Debug\SqlInjection.Prevention.IO.Borker.dll
+C:\inetpub\wwwroot\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\obj\Debug\SqlInjection.Prevention.IO.Borker.pdb
+C:\Thesis\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\bin\Debug\SqlInjection.Prevention.IO.Borker.dll
+C:\Thesis\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\bin\Debug\SqlInjection.Prevention.IO.Borker.pdb
+C:\Thesis\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\bin\Debug\SqlInjection.Prevention.DataManager.dll
+C:\Thesis\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\bin\Debug\SqlInjection.Prevention.DataManager.pdb
+C:\Thesis\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\obj\Debug\SqlInjection.Prevention.IO.Borker.csprojResolveAssemblyReference.cache
+C:\Thesis\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\obj\Debug\SqlInjection.Prevention.IO.Borker.dll
+C:\Thesis\SqlInjection.Prevention\SqlInjection.Prevention.IO.Borker\obj\Debug\SqlInjection.Prevention.IO.Borker.pdb
