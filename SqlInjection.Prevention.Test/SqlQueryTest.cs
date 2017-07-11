@@ -1,10 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using SqlInjection.Prevention.IO.Borker;
-
-namespace SqlInjection.Prevention.Test
+﻿namespace SqlInjection.Prevention.Test
 {
+    using System.Collections.Generic;
+    using Microsoft.VisualStudio.TestTools.UnitTesting;
+    using SqlInjection.Prevention.IO.Borker;
+
     [TestClass]
     public class SqlQueryTest
     {

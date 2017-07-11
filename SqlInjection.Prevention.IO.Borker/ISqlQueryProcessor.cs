@@ -1,7 +1,4 @@
-﻿
-using System.Collections.Generic;
-
-namespace SqlInjection.Prevention.IO.Borker
+﻿namespace SqlInjection.Prevention.IO.Borker
 {
     public interface ISqlQueryProcessor
     {

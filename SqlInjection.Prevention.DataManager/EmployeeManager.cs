@@ -1,10 +1,8 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.InteropServices;
-using SqlInjection.Prevention.DataManager.DataOperations;
-
-namespace SqlInjection.Prevention.DataManager
+﻿namespace SqlInjection.Prevention.DataManager
 {
+    using System.Collections.Generic;
+    using System.Linq;
+    using SqlInjection.Prevention.DataManager.DataOperations;
     public class EmployeeManager:IEmployeeManager
     {
         private readonly ISqlReader _sqlDataReader;

@@ -1,13 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data;
-using System.Data.SqlClient;
-using System.Linq;
-using System.Linq.Expressions;
-using System.Reflection;
-
-namespace SqlInjection.Prevention.DataManager.DataOperations
+﻿namespace SqlInjection.Prevention.DataManager.DataOperations
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Data;
+    using System.Data.SqlClient;
+    using System.Linq;
+    using System.Linq.Expressions;
+    using System.Reflection;
+
     public class SqlWriter : ISqlWriter
     {
         public string ConnectionString { get; set; }

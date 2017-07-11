@@ -1,15 +1,11 @@
-﻿using System;
-using System.CodeDom;
-using System.Collections.Generic;
-using System.DirectoryServices.ActiveDirectory;
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using SqlInjection.Prevention.DataManager;
-
-namespace SqlInjection.Prevention.IO.Borker
+﻿namespace SqlInjection.Prevention.IO.Borker
 {
+    using System;
+    using System.Collections.Generic;
+    using System.DirectoryServices.ActiveDirectory;
+    using System.IO;
+    using SqlInjection.Prevention.DataManager;
+
     public sealed  class FileOperations
     {
         private static FileOperations _instance;

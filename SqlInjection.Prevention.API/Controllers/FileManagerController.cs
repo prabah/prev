@@ -1,15 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Web.Configuration;
-using System.Web.Http;
-using SqlInjection.Prevention.DataManager;
-using SqlInjection.Prevention.DataManager.DataOperations;
-using SqlInjection.Prevention.IO.Borker;
-
-namespace SqlInjection.Prevention.API.Controllers
+﻿namespace SqlInjection.Prevention.API.Controllers
 {
+    using System;
+    using System.Collections.Generic;
+    using System.IO;
+    using System.Linq;
+    using System.Web.Configuration;
+    using System.Web.Http;
+    using SqlInjection.Prevention.DataManager;
+    using SqlInjection.Prevention.DataManager.DataOperations;
+    using SqlInjection.Prevention.IO.Borker;
+
     [AllowAnonymous]
     [RoutePrefix("api/FileManager")]
     public class FileManagerController : ApiController
@@ -99,16 +99,5 @@ namespace SqlInjection.Prevention.API.Controllers
             var allowedListOfFields = WebConfigurationManager.AppSettings["allowedListOfFields"];
             return allowedListOfFields.Split(',').Select(t => t).ToList();
         }
-
-        //public string ValidateQuery()
-        //{
-        //    var createdQuery = FileOperations.ReadSqlQuery(_queryFilePath);
-        //    var allowedListOfFields = WebConfigurationManager.AppSettings["allowedListOfFields"];
-        //    var allowedFields = allowedListOfFields.Split(',').Select(t => t).ToList();
-
-        //    //This can be extended to include filter for tables on config
-        //    var sqlQueryProcessor = new SqlQueryProcessor(allowedFields, "TbTest", createdQuery);
-        //    return sqlQueryProcessor.GetQueryValidated();
-        //}
     }
 }

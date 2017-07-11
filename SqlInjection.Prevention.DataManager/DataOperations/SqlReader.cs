@@ -1,10 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data.SqlClient;
-using Microsoft.JScript;
-
-namespace SqlInjection.Prevention.DataManager.DataOperations
+﻿namespace SqlInjection.Prevention.DataManager.DataOperations
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Data.SqlClient;
+
     public class SqlReader : ISqlReader
     {
         public string ConnectionString { get; set; }

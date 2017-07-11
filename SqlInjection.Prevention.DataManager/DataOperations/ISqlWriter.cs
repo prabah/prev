@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace SqlInjection.Prevention.DataManager.DataOperations
+﻿namespace SqlInjection.Prevention.DataManager.DataOperations
 {
+    using System.Collections.Generic;
+
     public interface ISqlWriter
     {
         string ConnectionString { get; set; }

@@ -1,10 +1,8 @@
-﻿using System.Collections.Generic;
-using System.Data.SqlClient;
-using System.Text;
-using System.Linq;
-
-namespace SqlInjection.Prevention.IO.Borker
+﻿namespace SqlInjection.Prevention.IO.Borker
 {
+    using System.Collections.Generic;
+    using System.Text;
+    using System.Linq;
     public class SqlQueryProcessor : ISqlQueryProcessor
     {
         private readonly List<string> _allowedFields;

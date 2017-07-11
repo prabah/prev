@@ -16,6 +16,11 @@ textarea {
     max-width: 280px;
 }
 
+.table-wrapper {
+    height: 400px;
+    overflow: auto;
+}
+
 table {
     border-collapse: collapse;
   }
@@ -43,4 +48,49 @@ table {
 
   ul li.warning {
       list-style-image: url('images/warning.png')
+  }
+
+  #query-file-wrapper {
+      margin-top: 10px;
+  }
+
+  #data-file-wrapper {
+      width: 200px;
+      margin-top: 10px;
+  }
+
+  #data-file-content, #query-file-content {
+      -moz-appearance: textfield-multiline;
+    -webkit-appearance: textarea;
+    border: 1px solid gray;
+    font: medium -moz-fixed;
+    font: -webkit-small-control;
+    
+    overflow: auto;
+    padding: 2px;
+    resize: both;
+    width: 500px;
+  }
+
+#data-file-content {
+    height: 300px;
+}
+
+#query-file-content {
+    height: 30px;
+}
+
+  #main-wrapper {
+      width: 45%;
+      float: left;
+  }
+
+  #file-content {
+      width: 45%;
+      float: right;
+  }
+
+  #footer{
+      padding-top: 50px;
+      clear: both;
   }

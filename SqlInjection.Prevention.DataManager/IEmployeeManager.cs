@@ -1,7 +1,6 @@
-﻿using System.Collections.Generic;
-
-namespace SqlInjection.Prevention.DataManager
+﻿namespace SqlInjection.Prevention.DataManager
 {
+    using System.Collections.Generic;
     public interface IEmployeeManager
     {
         List<Employee> Employees();

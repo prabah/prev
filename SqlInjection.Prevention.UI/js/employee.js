@@ -5,6 +5,7 @@
     var writeDataToFileUri = "http://localhost/SqlInjection.Prevention.API/api/filemanager/WriteDataToFile/";
     var readDataFromFileUri = "http://localhost/SqlInjection.Prevention.API/api/filemanager/ReadDataFromFile";
     var reteiveDataUri = "http://localhost/SqlInjection.Prevention.UI/Default/DisplayDataUsingInBuiltQueryEngine/";
+    var fileReadUrl = "http://localhost/SqlInjection.Prevention.UI/Default/GetFileContent/";
 
     var sendProcessFileRequest = function (args) {
         var url = args.url, callBack = args.callback;
@@ -18,6 +19,7 @@
             callBack(result);
         }).fail(function() {
             alert('errors');
+            $('#loadingmessage').hide();
         });
     };
 
@@ -33,6 +35,15 @@
             }
             $(selector).append(row$);
         }
+        sendProcessFileRequest({
+            url: fileReadUrl,
+            data: { 'fileSwitch': 'query' },
+            callback: function (result) {
+                $("#query-file-content").html(result);
+                readDataFile();
+            }
+
+        });
     }
 
 
@@ -58,6 +69,15 @@
         $('#loadingmessage').show();
         $("#header ul").empty();
         $("#inbuilt-query-table").empty();
+        $("#query-file-content").empty();
+        $("#data-file-content").empty();
+
+        if (!$.isNumeric($("#maxSalary").val())) {
+            alert("Please enter a numeric value");
+            $('#loadingmessage').hide();
+            return false;
+        }
+
         updateStatus("Query file created", true);
         sendProcessFileRequest({
             url: writingTextUri,
@@ -68,6 +88,17 @@
         });
 
     });
+
+    function readDataFile()
+    {
+        sendProcessFileRequest({
+            url: fileReadUrl,
+            data: { "fileSwitch": "data" },
+            callback: function (result) {
+                $("#data-file-content").html(result);
+            }
+        });
+    }
 
     function updateStatus(updateMessage, isSuccess) {
         var className = isSuccess ? 'message' : 'warning';
@@ -161,4 +192,6 @@
             updateStatus("Data cannot be inserted", true);
         }
     }
+
+
 })(jQuery);

@@ -1,11 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data.SqlClient;
-using SqlInjection.Prevention.DataManager;
-using SqlInjection.Prevention.DataManager.DataOperations;
-
-namespace SqlInjection.Prevention.IO.Borker
+﻿namespace SqlInjection.Prevention.IO.Borker
 {
+    using System.Collections.Generic;
+    using System.Data.SqlClient;
+    using SqlInjection.Prevention.DataManager;
+    using SqlInjection.Prevention.DataManager.DataOperations;
     public class TempDataReader : ITempDataReader
     {
         private readonly string _connectionString;

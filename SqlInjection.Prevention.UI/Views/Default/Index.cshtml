@@ -1,26 +1,39 @@
-﻿
-@{
-    ViewBag.Title = "Index";
-}
+﻿<div>
+    @{
+        ViewBag.Title = "Index";
+    }
 
-<h4>Please enter the amount and submit to retrieve the records of employees whose salary is lower than the amount entered:</h4>
+    <div>
+        <h4>Please enter the amount and submit to retrieve the records of employees whose salary is lower than the amount entered:</h4>
+        <input type="text" name="maxSalary" id="maxSalary" />
+        <input id="get-results" type="submit" />
+    </div>
+    <div id="main-wrapper">
+        <div id="header">
+            <ul></ul>
+        </div>
 
-<input type="text" name="maxSalary" id="maxSalary"/>
-<input id="get-results" type="submit" />
 
-<div id="header">
-    <ul></ul>
-</div>
+        <div class="table-wrapper">
+            <table id="inbuilt-query-table"></table>
+        </div>
+    </div>
 
+    <div id="file-content">
+        <div id="query-file-wrapper">
+            <h4>Content - Query File</h4>
+            <div id="query-file-content"></div>
+        </div>
 
-<div class="table-wrapper">
-    <table id="inbuilt-query-table">
+        <div id="data-file-wrapper">
+            <h4>Content - Data File</h4>
+            <div id="data-file-content"></div>
+        </div>
+    </div>
 
-    </table>
-</div>
-
-<div id='loadingmessage' style='display: none'>
-    <img src='~/Content/images/ajax-loader.gif'/>
+    <div id='loadingmessage' style='display: none'>
+        <img src='~/Content/images/ajax-loader.gif' />
+    </div>
 </div>
 
 <script src="~/js/employee.js"></script>
